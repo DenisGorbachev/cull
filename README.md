@@ -4,7 +4,7 @@ Sift filters unimportant news.
 
 ## How it works
 
-* Sift sends you the news only when it breaks the threshold for a minimum amount of votes (set by you).
+* Sift sends you the news only when it breaks the "min votes" threshold (set by you).
 * Sift allows you to upvote the news, so that it reaches more people.
 
 ## Example
