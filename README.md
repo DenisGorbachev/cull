@@ -1,11 +1,11 @@
-# Cullbot
+# Sift
 
-Cullbot delivers important news, filtering the rest.
+Sift filters unimportant news.
 
 ## How it works
 
-* You can receive the news only when it breaks the threshold for a minimum amount of votes (set by you).
-* You can upvote the news, so that it reaches more people.
+* Sift sends you the news only when it breaks the threshold for a minimum amount of votes (set by you).
+* Sift allows you to upvote the news, so that it reaches more people.
 
 ## Example
 
