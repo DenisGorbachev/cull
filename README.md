@@ -11,8 +11,8 @@ Sift filters unimportant news.
 
 * Alice sets "min votes" to 1
 * Bob sets "min votes" to 2
-* Sam sends a link to an official announcement of government curfew.
-* Cullbot forwards the link to Alice, because she has "min votes" set at 1
-* Cullbot **doesn't forward the link to Bob**, because he has "min votes" set at 2
+* Sam sends a link to an official announcement of government curfew into Sift channel.
+* Sift forwards the link to Alice, because she has "min votes" set at 1
+* Sift **doesn't forward the link to Bob**, because he has "min votes" set at 2
 * Alice upvotes the curfew announcement, because she thinks it's important.
-* Cullbot forwards the link to Bob, because now the announcement has 2 votes.
+* Sift forwards the link to Bob, because now the announcement has 2 votes.
